@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ShreejaSingh1/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ShreejaSingh1/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ShreejaSingh1/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/ShreejaSingh1/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ShreejaSingh1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/ShreejaSingh1/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ShreejaSingh1/Leetcode/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ShreejaSingh1/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ShreejaSingh1/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ShreejaSingh1/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ShreejaSingh1/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ShreejaSingh1/Leetcode/tree/master/0268-missing-number) |
