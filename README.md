@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ShreejaSingh1/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0189-rotate-array](https://github.com/ShreejaSingh1/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ShreejaSingh1/Leetcode/tree/master/0268-missing-number) |
+| [0682-baseball-game](https://github.com/ShreejaSingh1/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ShreejaSingh1/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShreejaSingh1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShreejaSingh1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ShreejaSingh1/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/ShreejaSingh1/Leetcode/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShreejaSingh1/Leetcode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/ShreejaSingh1/Leetcode/tree/master/0682-baseball-game) |
 ## Ternary Search
 |  |
 | ------- |
