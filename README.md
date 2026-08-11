@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ShreejaSingh1/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ShreejaSingh1/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ShreejaSingh1/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ShreejaSingh1/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ShreejaSingh1/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ShreejaSingh1/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ShreejaSingh1/Leetcode/tree/master/0268-missing-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ShreejaSingh1/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShreejaSingh1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/ShreejaSingh1/Leetcode/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ShreejaSingh1/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Ternary Search
 |  |
 | ------- |
@@ -170,4 +173,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ShreejaSingh1/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ShreejaSingh1/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ShreejaSingh1/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ShreejaSingh1/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/ShreejaSingh1/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
